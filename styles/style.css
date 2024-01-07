@@ -86,7 +86,7 @@ h1 {
     flex: 1;
     justify-content: center;
     align-items: center;
-    background-color: #95979B;
+    background-color: #6D747D;
 }
 
 .logo {
@@ -202,4 +202,14 @@ h1 {
     padding: 4px 36px;
     border-radius: 6px;
     font-size: 16px;
+}
+
+/* FOOTER STYLES */
+
+.footer {
+    font-size: 14px;
+    text-align: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding: 36px 0px;
 }
